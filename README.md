@@ -3,9 +3,11 @@
 Awesome list of status pages open source software, online services and public status pages of major internet companies
 ### Table of contents
 
-* [Opensource](#opensource)
-* [Services](#services)
-* [Public status pages](#public-status-pages)
+- [Awesome status pages  ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-status-pages--)
+    - [Table of contents](#table-of-contents)
+  - [Opensource](#opensource)
+  - [Services](#services)
+  - [Public status pages](#public-status-pages)
 
 ## Opensource
 * [Cachet](https://cachethq.io/) - Laravel based status page system for everyone.
@@ -75,6 +77,7 @@ Awesome list of status pages open source software, online services and public st
 * [Datadog Status](https://status.datadoghq.com/) - the status of Datadog.
 * [DigitalOcean Status](https://status.digitalocean.com/) - DigitalOcean Status page
 * [Discord App Status](https://status.discordapp.com/) - Discord App (videoconferencing, audioconferencing) status page
+* [Elastic Cloud Status](https://cloud-status.elastic.co/) - Elastic Cloud status page
 * [Facebook Platform Status](https://developers.facebook.com/status/dashboard/) - Facebook platform status page
 * [Fastly Status Page](https://status.fastly.com/) - Fastly Status
 * [GitHub Status API](https://status.github.com/api) - GitHub status using REST API
